@@ -1,0 +1,2 @@
+# admin
+Rules Of Survival
